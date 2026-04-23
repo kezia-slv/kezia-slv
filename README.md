@@ -1,16 +1,35 @@
-## Hi there 👋
+# 💻 Olá, eu sou a Kezia Silva 👋
 
-<!--
-**kezia-slv/kezia-slv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedora com foco em desenvolvimento web  
+💡 Criação de projetos práticos e soluções digitais  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologias
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- PHP  
+- SQL (MySQL)
+- Pacote Office (Excel, Power Point, Word) 
+
+---
+
+## 📊 Sobre mim
+🎓 Formação em Informática  
+🎓 Futura estudante de Análise e Desenvolvimento de Sistemas (Mackenzie)  
+📍  São Paulo - SP  
+✨ Desenvolvimento de projetos práticos e constante evolução na área de tecnologia  
+---
+
+## 📚 Formação e Certificações
+- Técnico em Informática (Senac)  
+- Assistente de Operações de Redes de Computadores (Senac)  
+- Assistente de Suporte e Manutenção de Computadores (Senac)  
+- Assistente de Desenvolvimento de Aplicativos Computacionais (Senac)  
+- Criação de Sites com HTML, CSS e JavaScript (Fundação Bradesco)  
+
+---
+
+## 🔗 Projetos
+- [Projeto 1](seboalfarrabio.com.br)  
+- [Projeto 2](datislopo.infinityfreeapp.com)  
