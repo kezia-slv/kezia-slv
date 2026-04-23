@@ -31,5 +31,5 @@
 ---
 
 ## 🔗 Projetos
-- [Projeto 1](seboalfarrabio.com.br)  
-- [Projeto 2](datislopo.infinityfreeapp.com)  
+- [Projeto 1](https://seboalfarrabio.com.br)  
+- [Projeto 2](https://datislopo.infinityfreeapp.com)  
