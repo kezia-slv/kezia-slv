@@ -16,7 +16,7 @@
 
 ## 📊 Sobre mim
 🎓 Formação em Informática  
-🎓 Futura estudante de Análise e Desenvolvimento de Sistemas (Mackenzie)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (Mackenzie)  
 📍  São Paulo - SP  
 ✨ Desenvolvimento de projetos práticos e constante evolução na área de tecnologia  
 ---
